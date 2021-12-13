@@ -2,7 +2,7 @@
 
 ---
 
-[x]	Contribution phase
+- [x]	Contribution phase
 
 **Task 1**
 
