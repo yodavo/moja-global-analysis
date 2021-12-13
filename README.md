@@ -5,6 +5,6 @@
 [x]	Contribution phase
 
 Task 1
-[x]	Belize and Colombia Worldclim datasets collection for bioclimatic variables (AMT, PTA)
-[ ] 	Generate a Holdridge map (tuning values collected before)
-[ ]	Check (Mathew Hanssen dasaset)[https://www.notion.so/Internship-David-follow-up-823acd5f41fc4d158bd7b8563463c4e9#cda32560e537450981a0e96350581845] and explore it use for the data already collected in cober and regeneration forests.
+[x]	Belize and Colombia Worldclim datasets collection for bioclimatic variables (AMT, PTA) - generated datasets in Gdrive.
+[ ] 	Generate a Holdridge map (tuning values collected before).
+\[ ]	Review Global Forest Change 2000–2019 by [Mathew Hanssen dasaset](https://data.globalforestwatch.org/documents/14228e6347c44f5691572169e9e107ad/explore) and explore it use for the data already collected in cober and regeneration forests.
