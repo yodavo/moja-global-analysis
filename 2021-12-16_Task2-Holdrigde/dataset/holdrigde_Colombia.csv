@@ -36,4 +36,4 @@ id,simbolo,zona,amt1_c,amt2_c,pta1_mm,pta2_mm,elev1_m,elev2_m,leyenda
 35,Th-A,Tundra húmeda alpina,1.5,3,125,250,3500,4500,Páramo húmedo
 36,Tmh-A,Tundra muy húmeda alpina,1.5,3,250,500,3500,4500,Páramo muy húmedo
 37,Tp-A,Tundra pluvial,1.5,3,500,,3500,4500,Páramo pluvial
-38,N,Nieve,0,1.5,>0,,4500,,Nival
+38,N,Nieve,0,1.5,0,,4500,,Nival
