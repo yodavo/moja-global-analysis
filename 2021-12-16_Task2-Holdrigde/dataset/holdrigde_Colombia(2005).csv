@@ -4,7 +4,7 @@ id,simbolo,zona,leyenda,amt1_c,amt2_c,temperature,pta1_mm,pta2_mm,precipitation,
 1260,Me-ST,Monte espinoso subtropical,Cálido semiárido,24,,15,250,500,4,0,1000,21
 1575,Bms-T,Bosque muy seco tropical,Cálido muy seco,24,,15,500,1000,5,0,1000,21
 2205,Bs-T,Bosque seco tropical,Cálido seco,24,,15,1000,2000,7,0,1000,21
-2835,Bh-T,Bosque húmedo tropical,Cálido húmedo,24,4,15,2000,4000,9,0,1000,21
+2835,Bh-T,Bosque húmedo tropical,Cálido húmedo,24,,15,2000,4000,9,0,1000,21
 3465,Bmh-T,Bosque muy húmedo tropical,Cálido muy húmedo,24,,15,4000,8000,11,0,1000,21
 4095,Bp-T,Bosque pluvial tropical,Cálido pluvial,24,,15,8000,,13,0,1000,21
 440,d-PM,Desierto premontano,Templado muy seco,18,24,10,62.5,125,2,1000,2000,22
