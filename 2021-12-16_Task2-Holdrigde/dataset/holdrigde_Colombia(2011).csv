@@ -1,4 +1,4 @@
-code,Tipo de bosque,ID,Elev_1,Elev_2,elevation,Amt_1,Amt_2,temperature,Tpa_1,Tpa_2,precipitation,Ecuación alométrica
+code,tipo de bosque,id,elev_1,elev_2,elevation,amt_1,amt_2,temperature,tpa_1,tpa_2,precipitation,ecuación alométrica
 45,Bosque muy seco tropical,bms-T,0,800,1,0,24,5,500,1000,9,1
 50,Bosque seco tropical,bs-T,0,800,1,0,24,5,1000,2000,10,1
 55,Bosque húmedo tropical,bh-T,0,800,1,0,24,5,2000,4000,11,2
