@@ -1,17 +1,17 @@
 code,tipo de bosque,id,elev_1,elev_2,elevation,amt_1,amt_2,temperature,tpa_1,tpa_2,precipitation,ecuación alométrica
-45,Bosque muy seco tropical,bms-T,0,800,1,24,,5,500,1000,9,1
-50,Bosque seco tropical,bs-T,0,800,1,24,,5,1000,2000,10,1
-55,Bosque húmedo tropical,bh-T,0,800,1,24,,5,2000,4000,11,2
-65,Bosque muy húmedo tropical,bmh-T,0,800,1,24,,5,4000,8000,13,2
-75,Bosque pluvial tropical,bp-T,0,800,1,24,,5,8000,,15,3
-126,Bosque seco premontano,bs-PM,800,1800,2,18,24,7,500,1000,9,4
-160,Bosque húmedo premontano,bh-PM,800,1800,2,18,24,8,1000,2000,10,4
-176,Bosque muy húmedo premontano,bmh-PM,800,1800,2,18,24,8,2000,4000,11,4
-224,Bosque pluvial premontano,bp-PM,800,1800,2,18,24,8,4000,,14,4
-189,Bosque seco montano bajo,bs-MB,1800,2800,3,12,18,7,500,1000,9,5
-210,Bosque húmedo montano bajo,bh-MB,1800,2800,3,12,18,7,1000,2000,10,5
-231,Bosque muy húmedo montano bajo,bmh-MB,1800,2800,3,12,18,7,2000,4000,11,5
-294,Bosque pluvial montano bajo,bp-MB,1800,2800,3,12,18,7,4000,,14,5
-216,Bosque húmedo montano,bh-M,2800,3700,4,6,12,6,500,1000,9,6
-240,Bosque muy húmedo montano,bmh-M,2800,3700,4,6,12,6,1000,2000,10,6
-288,Bosque pluvial montano,bp-M,2800,3700,4,6,12,6,2000,,12,6
+8.1,Bosque muy seco tropical,bms-T,0,800,1,24,,0.9,500,1000,9,1
+9,Bosque seco tropical,bs-T,0,800,1,24,,0.9,1000,2000,10,1
+9.9,Bosque húmedo tropical,bh-T,0,800,1,24,,0.9,2000,4000,11,2
+11.7,Bosque muy húmedo tropical,bmh-T,0,800,1,24,,0.9,4000,8000,13,2
+13.5,Bosque pluvial tropical,bp-T,0,800,1,24,,0.9,8000,,15,3
+14.4,Bosque seco premontano,bs-PM,800,1800,2,18,24,0.8,500,1000,9,4
+16,Bosque húmedo premontano,bh-PM,800,1800,2,18,24,0.8,1000,2000,10,4
+17.6,Bosque muy húmedo premontano,bmh-PM,800,1800,2,18,24,0.8,2000,4000,11,4
+22.4,Bosque pluvial premontano,bp-PM,800,1800,2,18,24,0.8,4000,,14,4
+18.9,Bosque seco montano bajo,bs-MB,1800,2800,3,12,18,0.7,500,1000,9,5
+21,Bosque húmedo montano bajo,bh-MB,1800,2800,3,12,18,0.7,1000,2000,10,5
+23.1,Bosque muy húmedo montano bajo,bmh-MB,1800,2800,3,12,18,0.7,2000,4000,11,5
+29.4,Bosque pluvial montano bajo,bp-MB,1800,2800,3,12,18,0.7,4000,,14,5
+21.6,Bosque húmedo montano,bh-M,2800,3700,4,6,12,0.6,500,1000,9,6
+24,Bosque muy húmedo montano,bmh-M,2800,3700,4,6,12,0.6,1000,2000,10,6
+28.8,Bosque pluvial montano,bp-M,2800,3700,4,6,12,0.6,2000,,12,6
