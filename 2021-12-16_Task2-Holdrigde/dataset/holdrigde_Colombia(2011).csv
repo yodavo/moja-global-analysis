@@ -3,7 +3,7 @@ code,tipo de bosque,id,elev_1,elev_2,elevation,amt_1,amt_2,temperature,tpa_1,tpa
 50,Bosque seco tropical,bs-T,0,800,1,0,24,5,1000,2000,10,1
 55,Bosque húmedo tropical,bh-T,0,800,1,0,24,5,2000,4000,11,2
 65,Bosque muy húmedo tropical,bmh-T,0,800,1,0,24,5,4000,8000,13,2
-75,Bosque pluvial tropical,bp-T,0,800,1,0,24,5,8000,,15,3
+75,Bosque pluvial tropical,bp-T,0,800,1,24,,5,8000,,15,3
 126,Bosque seco premontano,bs-PM,800,1800,2,18,24,7,500,1000,9,4
 160,Bosque húmedo premontano,bh-PM,800,1800,2,18,24,8,1000,2000,10,4
 176,Bosque muy húmedo premontano,bmh-PM,800,1800,2,18,24,8,2000,4000,11,4
