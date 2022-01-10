@@ -1,39 +1,39 @@
 id,simbolo,zona,leyenda,amt1_c,amt2_c,temperature,pta1_mm,pta2_mm,precipitation,elev1_m,elev2_m,elevation
-56,Bp-T,Bosque pluvial tropical,Cálido pluvial,24,40,7,8000,15000,31,0,1000,18
-81,Bmh-T,Bosque muy húmedo tropical,Cálido muy húmedo,24,40,7,4000,8000,56,0,1000,18
-84,Bs-T,Bosque seco tropical,Cálido seco,24,40,7,1000,2000,59,0,1000,18
-91,Bp-PM,Bosque pluvial premontano,Templado pluvial,18,24,6,4000,8000,56,1000,2000,29
-94,Bh-PM,Bosque húmedo premontano,Templado húmedo,18,24,6,1000,2000,59,1000,2000,29
-96,Bh-T,Bosque húmedo tropical,Cálido húmedo,24,40,7,2000,4000,71,0,1000,18
-101,Bp-MB,Bosque pluvial montano bajo,Frío pluvial,12,18,5,4000,8000,56,2000,2500,40
-104,Bh-MB,Bosque húmedo montano bajo,Frío húmedo,12,18,5,1000,2000,59,2000,2500,40
-106,Bmh-PM,Bosque muy húmedo premontano,Templado muy húmedo,18,24,6,2000,4000,71,1000,2000,29
-114,Bmh-M,Bosque muy húmedo montano,Muy frío muy húmedo,6,12,4,1000,2000,59,2500,3000,51
-116,Bmh-MB,Bosque muy húmedo montano bajo,Frío muy húmedo,12,18,5,2000,4000,71,2000,2500,40
-124,Pp-SA,Páramo pluvial subalpino,Subpáramo pluvial,3,6,3,1000,2000,59,3000,3500,62
-126,Bp-M,Bosque pluvial montano,Muy frío pluvial,6,12,4,2000,4000,71,2500,3000,51
-134,d-PM,Desierto premontano,Templado muy seco,18,24,6,62.5,125,99,1000,2000,29
-144,d-MB,Desierto montano bajo,Frío muy seco,12,18,5,62.5,125,99,2000,2500,40
-154,Md-PM,Matorral desértico premontano,Templado muy seco,18,24,6,125,250,119,1000,2000,29
-164,d-SA,Desierto subalpino,Subpáramo muy seco,3,6,3,62.5,125,99,3000,3500,62
-168,Ts-A,Tundra seca alpina,Páramo seco,1.5,3,2,62.5,125,93,3500,4500,73
-172,Md-MB,Matorral desértico montano bajo,Frío muy seco,12,18,5,125,250,127,2000,2500,40
-174,N,Nieve,Nival,0,1.5,1,0,62.5,89,4500,6000,84
-184,Md-M,Matorral desértico montano,Muy frío seco,6,12,4,125,250,129,2500,3000,51
-194,Md-SA,Matorral desértico subalpino,Subpáramo seco,3,6,3,125,250,129,3000,3500,62
-204,Th-A,Tundra húmeda alpina,Páramo húmedo,1.5,3,2,125,250,129,3500,4500,73
-216,Bms-T,Bosque muy seco tropical,Cálido muy seco,24,40,7,500,1000,191,0,1000,18
-226,Bs-PM,Bosque seco premontano,Templado seco,18,24,6,500,1000,191,1000,2000,29
-236,Bs-Mb,Bosque seco montano bajo,Frío seco,12,18,5,500,1000,191,2000,2500,40
-246,Bh-M,Bosque húmedo montano,Muy frío húmedo,6,12,4,500,1000,191,2500,3000,51
-256,p-SA,Páramo subalpino,Subpáramo muy húmedo,3,6,3,500,1000,191,3000,3500,62
-266,Tp-A,Tundra pluvial,Páramo pluvial,1.5,3,2,500,1000,191,3500,4500,73
-284,Me-ST,Monte espinoso subtropical,Cálido semiárido,24,40,7,250,500,259,0,1000,18
-294,Me-PM,Matorral espinoso premontano,Templado muy seco,18,24,6,250,500,259,1000,2000,29
-304,Ee-MB,Estepa espinosa montano bajo,Frío muy seco,12,18,5,250,500,259,2000,2500,40
-314,e-M,Estepa montana,Muy frío seco,6,12,4,250,500,259,2500,3000,51
-324,Mh-SA,Monte húmedo subalpino,Subpáramo húmedo,3,6,3,250,500,259,3000,3500,62
-334,Tmh-A,Tundra muy húmeda alpina,Páramo muy húmedo,1.5,3,2,250,500,259,3500,4500,73
-554,Md-ST,Matorral desértico subtropical,Cálido árido,24,40,7,125,250,529,0,1000,18
-604,d-M,Desierto montano,Muy frío seco,6,12,4,62.5,125,549,2500,3000,51
-944,d-T,Desierto Tropical,Cálido árido,24,40,7,62.5,125,919,0,1000,18
+3906,Bp-T,Bosque pluvial tropical,Cálido pluvial,24,40,7,8000,15000,31,0,1000,18
+7056,Bmh-T,Bosque muy húmedo tropical,Cálido muy húmedo,24,40,7,4000,8000,56,0,1000,18
+7434,Bs-T,Bosque seco tropical,Cálido seco,24,40,7,1000,2000,59,0,1000,18
+7476,N,Nieve,Nival,0,1.5,1,0,62.5,89,4500,6000,84
+8946,Bh-T,Bosque húmedo tropical,Cálido húmedo,24,40,7,2000,4000,71,0,1000,18
+9744,Bp-PM,Bosque pluvial premontano,Templado pluvial,18,24,6,4000,8000,56,1000,2000,29
+10266,Bh-PM,Bosque húmedo premontano,Templado húmedo,18,24,6,1000,2000,59,1000,2000,29
+10974,Pp-SA,Páramo pluvial subalpino,Subpáramo pluvial,3,6,3,1000,2000,59,3000,3500,62
+11200,Bp-MB,Bosque pluvial montano bajo,Frío pluvial,12,18,5,4000,8000,56,2000,2500,40
+11800,Bh-MB,Bosque húmedo montano bajo,Frío húmedo,12,18,5,1000,2000,59,2000,2500,40
+12036,Bmh-M,Bosque muy húmedo montano,Muy frío muy húmedo,6,12,4,1000,2000,59,2500,3000,51
+12354,Bmh-PM,Bosque muy húmedo premontano,Templado muy húmedo,18,24,6,2000,4000,71,1000,2000,29
+13578,Ts-A,Tundra seca alpina,Páramo seco,1.5,3,2,62.5,125,93,3500,4500,73
+14200,Bmh-MB,Bosque muy húmedo montano bajo,Frío muy húmedo,12,18,5,2000,4000,71,2000,2500,40
+14484,Bp-M,Bosque pluvial montano,Muy frío pluvial,6,12,4,2000,4000,71,2500,3000,51
+17226,d-PM,Desierto premontano,Templado muy seco,18,24,6,62.5,125,99,1000,2000,29
+18414,d-SA,Desierto subalpino,Subpáramo muy seco,3,6,3,62.5,125,99,3000,3500,62
+18834,Th-A,Tundra húmeda alpina,Páramo húmedo,1.5,3,2,125,250,129,3500,4500,73
+19800,d-MB,Desierto montano bajo,Frío muy seco,12,18,5,62.5,125,99,2000,2500,40
+20706,Md-PM,Matorral desértico premontano,Templado muy seco,18,24,6,125,250,119,1000,2000,29
+23994,Md-SA,Matorral desértico subalpino,Subpáramo seco,3,6,3,125,250,129,3000,3500,62
+24066,Bms-T,Bosque muy seco tropical,Cálido muy seco,24,40,7,500,1000,191,0,1000,18
+25400,Md-MB,Matorral desértico montano bajo,Frío muy seco,12,18,5,125,250,127,2000,2500,40
+26316,Md-M,Matorral desértico montano,Muy frío seco,6,12,4,125,250,129,2500,3000,51
+27886,Tp-A,Tundra pluvial,Páramo pluvial,1.5,3,2,500,1000,191,3500,4500,73
+32634,Me-ST,Monte espinoso subtropical,Cálido semiárido,24,40,7,250,500,259,0,1000,18
+33234,Bs-PM,Bosque seco premontano,Templado seco,18,24,6,500,1000,191,1000,2000,29
+35526,p-SA,Páramo subalpino,Subpáramo muy húmedo,3,6,3,500,1000,191,3000,3500,62
+37814,Tmh-A,Tundra muy húmeda alpina,Páramo muy húmedo,1.5,3,2,250,500,259,3500,4500,73
+38200,Bs-Mb,Bosque seco montano bajo,Frío seco,12,18,5,500,1000,191,2000,2500,40
+38964,Bh-M,Bosque húmedo montano,Muy frío húmedo,6,12,4,500,1000,191,2500,3000,51
+45066,Me-PM,Matorral espinoso premontano,Templado muy seco,18,24,6,250,500,259,1000,2000,29
+48174,Mh-SA,Monte húmedo subalpino,Subpáramo húmedo,3,6,3,250,500,259,3000,3500,62
+51800,Ee-MB,Estepa espinosa montano bajo,Frío muy seco,12,18,5,250,500,259,2000,2500,40
+52836,e-M,Estepa montana,Muy frío seco,6,12,4,250,500,259,2500,3000,51
+66654,Md-ST,Matorral desértico subtropical,Cálido árido,24,40,7,125,250,529,0,1000,18
+111996,d-M,Desierto montano,Muy frío seco,6,12,4,62.5,125,549,2500,3000,51
+115794,d-T,Desierto Tropical,Cálido árido,24,40,7,62.5,125,919,0,1000,18
