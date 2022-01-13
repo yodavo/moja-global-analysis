@@ -1,0 +1,17 @@
+code,bosque,id,elev1_m,elev2_m,elevation,amt1_c,amt2_c,temperature,pta1_mm,pta2_mm,precipitation
+10064,Bosque muy seco tropical,bms-T,0,800,11,24,40,53,0,1000,10000
+20064,Bosque seco tropical,bs-T,0,800,11,24,40,53,1000,2000,20000
+30064,Bosque húmedo tropical,bh-T,0,800,11,24,40,53,2000,4000,30000
+40064,Bosque muy húmedo tropical,bmh-T,0,800,11,24,40,53,4000,8000,40000
+50064,Bosque pluvial tropical,bp-T,0,800,11,24,40,53,8000,10000,50000
+10074,Bosque seco premontano,bs-PM,800,1800,22,18,24,52,0,1000,10000
+20074,Bosque húmedo premontano,bh-PM,800,1800,22,18,24,52,1000,2000,20000
+30074,Bosque muy húmedo premontano,bmh-PM,800,1800,22,18,24,52,2000,4000,30000
+40074,Bosque pluvial premontano,bp-PM,800,1800,22,18,24,52,4000,8000,40000
+10084,Bosque seco montano bajo,bs-MB,1800,2800,33,12,18,51,0,1000,10000
+20084,Bosque húmedo montano bajo,bh-MB,1800,2800,33,12,18,51,1000,2000,20000
+30084,Bosque muy húmedo montano bajo,bmh-MB,1800,2800,33,12,18,51,2000,4000,30000
+40084,Bosque pluvial montano bajo,bp-MB,1800,2800,33,12,18,51,4000,8000,40000
+10094,Bosque húmedo montano,bh-M,2800,6000,44,0,12,50,0,1000,10000
+20094,Bosque muy húmedo montano,bmh-M,2800,6000,44,0,12,50,1000,2000,20000
+30094,Bosque pluvial montano,bp-M,2800,6000,44,0,12,50,2000,4000,30000
